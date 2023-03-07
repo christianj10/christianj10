@@ -9,4 +9,4 @@ Estoy tratando de seguir mejorando y realizo esto como prueba.
 - Evitar el Sindrome de Importor
 - Paso a pasito
   
- *Mi meta arender mucho más* 
+ *Mi meta aprender mucho más* 
