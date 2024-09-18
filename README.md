@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Christian J. Amaguaña</h1>
-<h3 align="center" >A passionate FullStack developer from Ecuador</h3>
+<h3 align="center">A passionate FullStack developer from Ecuador</h3>
 
-
-<p align="right" alt="Coding" width="400"> <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" alt="christianj10" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianj10&label=Profile%20views&color=0e75b6&style=flat" alt="christianj10" /> </p>
+
+<p align="left"> <a href="https://twitter.com/chrizithop" target="blank"><img src="https://img.shields.io/twitter/follow/chrizithop?logo=twitter&style=for-the-badge" alt="chrizithop" /></a> </p>
 
 - 🌱 I’m currently learning **C#, React Native and Kotlin for Developer Mobile**
 
@@ -16,6 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/chrizithop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chrizithop" height="30" width="40" /></a>
+<a href="https://instagram.com/chris_amaguana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chris_amaguana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
